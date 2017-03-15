@@ -26,32 +26,28 @@ h3 {
 p {
 	width: 75%;
 	margin: auto;
-	background-color: white;
+}
+
+h6 {
+	margin: auto;
+	text-align: center;
 }
 
 #when {
 	text-align: center;
-	padding: 30;
-}
-
-#why {
-	color: black;
-}
-
-#what {
-	color: black;
+	padding: 4px;
 }
 
 img {
 	display: none;
+	margin: auto;
+}
 
+.smaller {
+	height: 500px;
 }
 
 article:hover {
-	background-color: #f7f7d5;
-}
-
-article:hover p {
 	background-color: #f7f7d5;
 }
 
